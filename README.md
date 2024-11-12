@@ -33,7 +33,6 @@ Contact
 Maintainer: Umesh Kumar
 Email: umeshtak34@gmail.com
 GitHub: https://github.com/Umesh1441
-This version keeps it short while providing essential information. Let me know if you'd like any adjustments!
 
 # React + Vite
 
