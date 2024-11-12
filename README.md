@@ -9,7 +9,7 @@ Responsive Design: Optimized for desktops and mobile devices.
 
 # Tech Stack
 Frontend: React, Styled Components, Material-UI.
-Backend (Planned): Node.js, MongoDB/MySQL.
+Backend (Planned): Node.js, MongoDB.
 Version Control: Git, GitHub.
 
 #Installation
