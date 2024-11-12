@@ -1,45 +1,56 @@
 # Web Hiring Platform
-A modern recruitment platform to streamline the hiring process. It offers functionalities for job postings, candidate management, and custom assessments, all within a responsive, user-friendly interface.
 
-# Features
-Job Postings: Create, update, and delete job postings.
-Candidate Management: View candidate profiles and update their statuses.
-Custom Assessments: Add, edit, and delete multiple-choice assessments for jobs.
-Responsive Design: Optimized for desktops and mobile devices.
+## Overview
+The **Web Hiring Platform** is a comprehensive tool designed to streamline recruitment workflows. It offers features such as job postings, candidate management, and custom assessments, providing a seamless experience for recruiters to manage the hiring process efficiently.
 
-# Tech Stack
-Frontend: React, Styled Components, Material-UI.
-Backend (Planned): Node.js, MongoDB.
-Version Control: Git, GitHub.
+## Features
 
-#Installation
-Clone the repository:
-bash
-Copy code
-git clone [https://github.com/YOUR_USERNAME/web-hiring-platform.git](https://github.com/Umesh1441/Frontend_ENTNT.git)
-cd web-hiring-platform
+### Job Postings
+- Create, edit, and delete job postings.
+- View details of job openings in a centralized interface.
 
-# Install dependencies:
-bash
-Copy code
-npm install
-Run the development server:
+### Candidate Management
+- View detailed candidate profiles, including contact details, skills, and resumes.
+- Update candidate statuses (e.g., "Under Review," "Hired," "Rejected").
 
-bash
-Copy code
-npm start
+### Custom Assessments
+- Add multiple-choice questions with up to four options per question.
+- Edit or delete assessments to tailor evaluations for specific roles.
 
-Contact
-Maintainer: Umesh Kumar
-Email: umeshtak34@gmail.com
-GitHub: https://github.com/Umesh1441
+### Responsive Design
+- Optimized for both desktop and mobile devices.
+- Built with React and Styled Components for a seamless user experience.
 
-# React + Vite
+## Technology Stack
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Frontend
+- **React**: For building a dynamic user interface.
+- **Styled Components**: For modular and reusable styling.
+- **Material-UI**: For additional UI components and icons.
 
-Currently, two official plugins are available:
+### Version Control
+- **Git**: For tracking changes.
+- **GitHub**: For repository hosting and collaboration.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# Frontend_ENTNT" 
+## Benefits
+- Streamlined recruitment workflow for organizations.
+- User-friendly interface minimizing the learning curve.
+- Customizable assessments for precise candidate evaluation.
+- Scalable design, ready for future enhancements.
+
+## Future Enhancements
+- Backend integration using Node.js and MongoDB/MySQL for real-time data management.
+- Advanced analytics and reporting for hiring metrics.
+- Role-based access control for enhanced security.
+- Compatibility with third-party recruitment tools for extended functionality.
+
+## Installation
+
+### Prerequisites
+- Node.js and npm installed on your system.
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/web-hiring-platform.git
+   cd web-hiring-platform
