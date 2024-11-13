@@ -49,8 +49,19 @@ The **Web Hiring Platform** is a comprehensive tool designed to streamline recru
 ### Prerequisites
 - Node.js and npm installed on your system.
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/web-hiring-platform.git
-   cd web-hiring-platform
+# Steps
+# Clone the repository:
+git clone https://github.com/Umesh1441/Frontend_ENTNT.git
+
+# Navigate into the project directory:
+cd web-hiring-platform
+
+# Install the dependencies:
+npm install
+
+# Start the development server:
+npm start
+
+# (Optional) Build for production:
+npm run build
+
