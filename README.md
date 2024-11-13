@@ -50,18 +50,18 @@ The **Web Hiring Platform** is a comprehensive tool designed to streamline recru
 - Node.js and npm installed on your system.
 
 # Steps
-# Clone the repository:
+### Clone the repository:
 git clone https://github.com/Umesh1441/Frontend_ENTNT.git
 
-# Navigate into the project directory:
+### Navigate into the project directory:
 cd web-hiring-platform
 
-# Install the dependencies:
+### Install the dependencies:
 npm install
 
-# Start the development server:
+### Start the development server:
 npm start
 
-# (Optional) Build for production:
+### (Optional) Build for production:
 npm run build
 
